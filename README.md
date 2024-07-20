@@ -12,3 +12,6 @@ N-gram character-based model.
 
 ## samples
 Jupyter notebook with sample lyric generation pipeline and examples of generated lyrics (using N-Gram model)
+
+### requirements.txt
+For environment installation
