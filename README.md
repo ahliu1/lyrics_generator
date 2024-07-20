@@ -1,5 +1,5 @@
 # lyrics_generator
-Lyrics generator using lyrics scraper and character-based N-Gram model (and soon KNN). 
+Lyrics generator using lyrics scraper and character-based N-Gram model (and soon RNN). 
 
 ## lyrics_scraping
 Scraping for lyrics using Genius API.
